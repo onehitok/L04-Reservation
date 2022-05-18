@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="diner_details">Diner Customer Details</string>
+    <string name="non_smoking_area">Non-smoking area</string>
+    <string name="smoking_area">Smoking area</string>
+    <string name="comfirm_reservation">Comfirm Reservation</string>
+    <string name="reset">Reset</string>
+</resources>
